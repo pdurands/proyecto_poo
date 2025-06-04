@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-06-03T19:10:33.713078",
+  "incidents": [
+    {
+      "id": 1,
+      "type": "infrastructure",
+      "priority": "high",
+      "description": "caída de servidores de autenticación",
+      "created_at": "2025-06-03T18:54:22.083898",
+      "assigned_to": null,
+      "status": "escalated"
+    },
+    {
+      "id": 2,
+      "type": "security",
+      "priority": "medium",
+      "description": "prueba",
+      "created_at": "2025-06-03T19:00:49.334148",
+      "assigned_to": null,
+      "status": "resolved"
+    },
+    {
+      "id": 3,
+      "type": "infrastructure",
+      "priority": "high",
+      "description": "prueba",
+      "created_at": "2025-06-03T19:08:43.870466",
+      "assigned_to": null,
+      "status": "pending"
+    }
+  ]
+}
